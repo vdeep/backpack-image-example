@@ -2,6 +2,7 @@
 
 To run the example site, use:
 ```
+composer install
 sail artisan up -d
 sail artisan migrate
 sail artisan db:seed
